@@ -1,0 +1,17 @@
+curl 'http://10.10.61.203:8081/ka/api/enterprise/easydesign/v2/create' \
+  -X 'PUT' \
+  -H 'authority: sit.kujiale.com' \
+  -H 'pragma: no-cache' \
+  -H 'cache-control: no-cache' \
+  -H 'accept: text/plain,*' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36' \
+  -H 'content-type: application/json;charset=UTF-8' \
+  -H 'origin: http://10.10.61.203:8081' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: http://10.10.61.203:8081/panoeditor/pano/3FO3RUYPDE8Y/' \
+  -H 'accept-language: zh-CN,zh;q=0.9,ko;q=0.8' \
+  -H 'cookie: qhdi=b3cf6a25297111eb862de9a44dc002d0; ktrackerid=9f71ee9b-17d3-43e5-bb48-1eeffcbf7b71; __51cke__=; qh-locale=zh_CN; lang=zh-cn; locale=zh_CN; gr_user_id=1d152631-e0e9-46a5-abf7-16a39cc82b63; rmbUser=true; kjl_marketing_session_brief="{\"source\":\"yuntai_ad\",\"medium\":\"ad\",\"campaign\":\"42\",\"sessionId\":\"233381f0-2976-11eb-bd7e-61789b89167e\",\"referer\":\"https%3A%2F%2Fsit.kujiale.com%2F\",\"landingPage\":\"https%3A%2F%2Fwww.kujiale.com%2Fcasetopic%2F780%3Fkpm%3D9V8.b729ccf0384d8451.c7c3000.1605687276624%26utm_source%3Dyuntai_ad%26utm_medium%3Dad%26utm_campaign%3D42\"}"; DIYSERVERS=1; qunheinternalsso=IZn4euNr171ynZ06Ww/cw2Po2RB2YvT0vC6/vsR724c=; sidebarDappTipsHasShow=1; fromsrcurl=https://qunhe.feishu.cn/; Hm_lvt_bd8fd4c378d7721976f466053bd4a855=1606182210,1606182557,1606187002,1606197388; landingpageurl=https://www.kujiale.com/vc/account/login?redir=//www.kujiale.com/vc/design/3FO4C0VXXPRD?kpm=qkWL.652f0ab1f0145751.6626d60.1607041856934; neverRemindSetPackage=1; kjl_usercityid=175; email=bdvip%40qunhemail.com; _gid=GA1.2.1395935085.1607308489; ktrackertime=1607327248553; _ga_T1VX4E75PC=GS1.1.1607327262.4.0.1607327272.0; _ga=GA1.2.376012982.1605685389; _gat=1; qunhe-jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDk5MTkzMjk5NzUsImtfaWQiOiIzRk8yVldMT01RQjUiLCJ1dCI6NSwiYyI6MTYwNzMyNzMyOTk3NSwiZSI6MTYwOTkxOTMyOTk3NSwidXYiOjQsImlhZSI6ZmFsc2UsImFfaWQiOjExMTExNDEyMywicl9pZCI6MTExMTE0MDM5LCJsbyI6InpoX0NOIiwidWwiOiJGQVNUIn0.QWRh-nryxIOaBIt7NmYIOM6yaD_U432Pz3ZAAdVEMhU; _user_account_=; TaskVersion=3FO2VWLOMQB5_n_1; giftPkgStatus=3FO2VWLOMQB5_b_false; __tins__20960235=%7B%22sid%22%3A%201607326868934%2C%20%22vd%22%3A%2036%2C%20%22expires%22%3A%201607329156761%7D; __51laig__=79; Hm_lpvt_bd8fd4c378d7721976f466053bd4a855=1607327357' \
+  --data-binary '{"commodityReplaces":[{"obsBrandGoodId":"3FO4H1VLA5U1","commodityReplaceItems":[],"replaceType":2,"type":1,"customId":null}],"obsId":"3FO3RUYPDE8Y","type":1}' \
+  --compressed
