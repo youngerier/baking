@@ -30,5 +30,16 @@ com.qunhe.ka.solution.biz.soa.ModelViewerFacade#sendRenderTasksWithoutCheck
 - FloorHole
 
 - ElementFace
+#### 获取homeData 数据
+通过soa调用
+```yml
+service:
+  vip-list:
+    - com.qunhe.instdeco.service.diy.kam-service
+```
+
+###### 问题
+项目启动不了.....
+
 #### 方案
 https://sit.kujiale.com/cloud/tool/h5/diy?designid=3FO4M9F6ABLM&redirecturl=https%3A%2F%2Fsit.kujiale.com%2Fvc%2Fdesign%2F3FO4M9F8I00U%3Fkpm%3DqkWL.64cad2d11d7f6a4b.8a462ea.1608015405423&em=0
