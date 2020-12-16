@@ -1,18 +1,40 @@
 
 ### 2D装修设计数据支持
+
+#### 方案所需数据项
+
 - 软装家具3维数据/替换软装数据
 - 户型图/户型库/bim
 - 门窗
 
 
-##### homeData包含
+> homedata是包括了一个户型的所有数据，包括家具，户型，图例等信息 @墨禾 
+
+#### HomeData数据结构
 
 HomeData数据结构
+
+- 获取方法 `com.qunhe.instdeco.designapi.clients.HomeDataClient#getHomeData`
+```java
+public String getHomeData(Long designId, String levelId) throws DesignServiceException {
+    List<Pair<String, Object>> params = new ArrayList();
+    params.add(new Pair("designid", designId));
+    if (StringUtils.isNotBlank(levelId)) {
+        params.add(new Pair("levelid", levelId));
+    }
+
+    params.add(new Pair("multilevel", 1));
+    MethodResult<String> methodResult = this.mHomeDataApi.getHomeData(params);
+    return (String)MethodResultUtils.parseMethodResultWithCondition(methodResult);
+}
+```
+- 获取结果结构
+`com.qunhe.diybe.module.designmodel.data.HomeData` 
 
 ![HomeData数据结构](./bak/homedata.png 'HomeData数据结构')
 
 
-homeData
+HomeData
 - designHomeData
     - molding <- moldingcomon + /api/floorplancommon 户型中间层
     - furniture <- furniturecommon + /api/furniturecommon 家具中间层
@@ -22,11 +44,11 @@ homeData
     - Wall 
     - Pillar 
     - Beam 梁
-    - FloorHole 楼板 开洞?
+    - FloorHole 楼板 开洞? 表示楼板上的挖洞对象
     - ElementFace 
 
 - layoutHomeData
-
+    > @qianyue
 
 #### 获取homeData 数据
 通过soa调用
@@ -38,7 +60,7 @@ service:
 com.qunhe.kam.client.floorplancommon.api.FloorplanCommonApi
 
 ###### 问题
-项目启动不了.....
+demo项目项目启动不了.....
 
 #### 方案
 https://sit.kujiale.com/cloud/tool/h5/diy?designid=3FO4M9F6ABLM&redirecturl=https%3A%2F%2Fsit.kujiale.com%2Fvc%2Fdesign%2F3FO4M9F8I00U%3Fkpm%3DqkWL.64cad2d11d7f6a4b.8a462ea.1608015405423&em=0
