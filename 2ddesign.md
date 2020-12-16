@@ -1,35 +1,33 @@
 
-### 轻设计问题
-
-##### /ka/api/enterprise/easydesign/v2/create
-
-这个接口发起的酷品秀模型渲染任务的位置 (找到了)
-com.qunhe.ka.solution.biz.soa.ModelViewerFacade#sendRenderTasksWithoutCheck
-
-
-模型的组成(是模型数据 + 贴图) 还有其他吗
-
-
-渲染任务的产物是什么怎么获取的
-
-
 ### 2D装修设计数据支持
 - 软装家具3维数据/替换软装数据
 - 户型图/户型库/bim
 - 门窗
 
+
 ##### homeData包含
-- Level
 
-- Wall
+HomeData数据结构
 
-- Pillar
+![HomeData数据结构](./bak/homedata.png 'HomeData数据结构')
 
-- Beam
 
-- FloorHole
+homeData
+- designHomeData
+    - molding <- moldingcomon + /api/floorplancommon 户型中间层
+    - furniture <- furniturecommon + /api/furniturecommon 家具中间层
 
-- ElementFace
+- floorPlanHomeData
+    - Level 层
+    - Wall 
+    - Pillar 
+    - Beam 梁
+    - FloorHole 楼板 开洞?
+    - ElementFace 
+
+- layoutHomeData
+
+
 #### 获取homeData 数据
 通过soa调用
 ```yml
@@ -37,9 +35,16 @@ service:
   vip-list:
     - com.qunhe.instdeco.service.diy.kam-service
 ```
+com.qunhe.kam.client.floorplancommon.api.FloorplanCommonApi
 
 ###### 问题
 项目启动不了.....
 
 #### 方案
 https://sit.kujiale.com/cloud/tool/h5/diy?designid=3FO4M9F6ABLM&redirecturl=https%3A%2F%2Fsit.kujiale.com%2Fvc%2Fdesign%2F3FO4M9F8I00U%3Fkpm%3DqkWL.64cad2d11d7f6a4b.8a462ea.1608015405423&em=0
+
+
+
+designhomedata包括了molding和furniture两个信息，要拿这两个信息可以通过中间层数据moldingcommon和furniturecommon去拿
+
+bim后端工具主服务 = kamservice
