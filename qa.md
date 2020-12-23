@@ -21,5 +21,6 @@ homeData
 设计方案数据获取方式
 
   - com.qunhe.diybe.module.furniturecommon.model.FurnitureCommon // 家具
-  - com.qunhe.diybe.module.floorplancommon.model.FloorplanCommonModel // 
+  - com.qunhe.diybe.module.floorplancommon.model.FloorplanCommonModel // 平面图
+  
 
