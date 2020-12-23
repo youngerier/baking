@@ -48,6 +48,28 @@ HomeData
 - layoutHomeData // 方案布局信息
     > @qianyue
 
+
+metadata
+levels
+structures
+ areas
+ rooms
+ walls
+ corners
+ exareas
+ areasurfaces
+objects
+ holes
+ furnitures
+ layoutfurnitures
+ h5layoutfurnitures
+ materials
+ layoutmaterials
+ pillars
+ beams
+relations
+ 
+
 #### 获取homeData 数据
 通过soa调用
 ```yml
