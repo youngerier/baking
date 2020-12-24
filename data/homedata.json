@@ -1,0 +1,1890 @@
+{
+    "id": "L7QG7ANMDSE24AABAAAAAEI8",
+    "compass": {
+        "northDirection": 0.0,
+        "latitude": 0.0,
+        "longitude": 0.0
+    },
+    "levels": [
+        {
+            "moldingIds": [],
+            "cupboardFurnitureIds": [],
+            "furnitureGroupIds": [],
+            "roomSeparatorIds": [],
+            "layoutFurnitureIds": [],
+            "pillarIds": [],
+            "beamIds": [],
+            "layoutFurnitureGroupIds": [],
+            "exAreaIds": [],
+            "h5LayoutFurnitureIds": [],
+            "h5LayoutFurnitureGroupIds": [],
+            "height": 2850.0,
+            "index": 0,
+            "roomIds": [
+                "512601",
+                "521173"
+            ],
+            "cornerIds": [
+                "417137",
+                "417127",
+                "417128",
+                "417122",
+                "504145",
+                "515801",
+                "517961",
+                "521403",
+                "522927",
+                "522929",
+                "1182563",
+                "1182565"
+            ],
+            "wallIds": [
+                "416809",
+                "416191",
+                "416214",
+                "416210",
+                "416187",
+                "416185",
+                "416262",
+                "517331",
+                "520655",
+                "521005",
+                "521007",
+                "1052281",
+                "1177107"
+            ],
+            "furnitureIds": [
+                "988703",
+                "994251",
+                "1006077",
+                "1029547",
+                "1116185",
+                "1027947",
+                "994249",
+                "1029549",
+                "1033605",
+                "1072275",
+                "1073551",
+                "1028739",
+                "1146899",
+                "1029557",
+                "1029505",
+                "1029511",
+                "993473",
+                "1029507",
+                "1029509",
+                "85795381",
+                "85795383",
+                "51260151260151260151260151260151260151260151260151260110009416",
+                "51260151260151260151260151260151260151260151260151260110009483",
+                "5126015126011072265",
+                "51260151260151260151260151260151260151260151260151260151260110008704",
+                "51260151260151260151260151260151260151260151260151260151260110008596",
+                "51260151260151260151260151260151260151260151260151260151260110008694",
+                "51260151260151260151260151260151260151260151260151260151260110008589",
+                "5126015126011072271",
+                "51260151260151260151260151260151260151260151260151260151260110008592",
+                "51260151260151260151260151260151260151260151260151260151260110008612",
+                "51260151260151260151260151260151260151260151260151260151260110008620",
+                "51260151260151260151260151260151260151260151260151260151260110008605",
+                "51260151260151260151260151260151260151260151260151260151260110008600",
+                "51260151260151260151260151260151260151260151260151260151260110008593",
+                "997427",
+                "1182805",
+                "997425",
+                "885102"
+            ],
+            "floorThickness": 120.0,
+            "areaIds": [],
+            "metadata": "{\"id\":null,\"notes\":[],\"snapshotConfig\":null}",
+            "name": null,
+            "id": "492481"
+        }
+    ],
+    "areas": [],
+    "rooms": [
+        {
+            "type": 22,
+            "position": {
+                "x": -1990.9529,
+                "y": -1312.6749
+            },
+            "wallIds": [],
+            "layoutMaterialId": "17615",
+            "ceilingTextureId": "85799713",
+            "floorTextureId": "85799711",
+            "surfaceTextureId": null,
+            "floorTileCanvasId": null,
+            "skirtingTextureId": null,
+            "floorAngle": 0.0,
+            "id": "512601",
+            "metadata": "{\"note\":{\"name\":\"客餐厅\",\"area\":21.307891985614226,\"position\":{\"x\":-2262.491270808014,\"y\":-1452.2281661410962}}}",
+            "name": "客餐厅"
+        },
+        {
+            "type": 17,
+            "position": {
+                "x": -5193.192,
+                "y": -35.07419
+            },
+            "wallIds": [],
+            "layoutMaterialId": "17623",
+            "ceilingTextureId": "85799717",
+            "floorTextureId": "85799715",
+            "surfaceTextureId": null,
+            "floorTileCanvasId": null,
+            "skirtingTextureId": null,
+            "floorAngle": 0.0,
+            "id": "521173",
+            "metadata": "{\"note\":{\"name\":\"未命名\",\"area\":0.2742735611420799,\"position\":{\"x\":-5193.192000000002,\"y\":-35.07418999999998}}}",
+            "name": "未命名"
+        }
+    ],
+    "walls": [
+        {
+            "visibleStatus": null,
+            "lockStatus": null,
+            "type": 0,
+            "control": null,
+            "materialId": null,
+            "cornerIds": [
+                "417128",
+                "517961"
+            ],
+            "heights": [],
+            "materialDataIds": [
+                "85799675"
+            ],
+            "thickness": 120.0,
+            "loadBearingWall": false,
+            "id": "416809"
+        },
+        {
+            "visibleStatus": null,
+            "lockStatus": null,
+            "type": 0,
+            "control": null,
+            "materialId": null,
+            "cornerIds": [
+                "417122",
+                "522927"
+            ],
+            "heights": [
+                2800.0
+            ],
+            "materialDataIds": [
+                "85799677"
+            ],
+            "thickness": 120.0,
+            "loadBearingWall": false,
+            "id": "416191"
+        },
+        {
+            "visibleStatus": null,
+            "lockStatus": null,
+            "type": 0,
+            "control": null,
+            "materialId": null,
+            "cornerIds": [
+                "417127",
+                "417128"
+            ],
+            "heights": [
+                2800.0
+            ],
+            "materialDataIds": [
+                "85799679"
+            ],
+            "thickness": 119.999954,
+            "loadBearingWall": false,
+            "id": "416214"
+        },
+        {
+            "visibleStatus": null,
+            "lockStatus": null,
+            "type": 0,
+            "control": null,
+            "materialId": null,
+            "cornerIds": [
+                "504145",
+                "522927"
+            ],
+            "heights": [
+                2800.0
+            ],
+            "materialDataIds": [
+                "85799681"
+            ],
+            "thickness": 120.0,
+            "loadBearingWall": false,
+            "id": "416210"
+        },
+        {
+            "visibleStatus": null,
+            "lockStatus": null,
+            "type": 0,
+            "control": null,
+            "materialId": null,
+            "cornerIds": [
+                "417137",
+                "417127"
+            ],
+            "heights": [
+                2800.0
+            ],
+            "materialDataIds": [
+                "85799683"
+            ],
+            "thickness": 239.99976,
+            "loadBearingWall": false,
+            "id": "416187"
+        },
+        {
+            "visibleStatus": null,
+            "lockStatus": null,
+            "type": 0,
+            "control": null,
+            "materialId": null,
+            "cornerIds": [
+                "417122",
+                "521403"
+            ],
+            "heights": [
+                2800.0
+            ],
+            "materialDataIds": [
+                "85799685"
+            ],
+            "thickness": 240.0,
+            "loadBearingWall": false,
+            "id": "416185"
+        },
+        {
+            "visibleStatus": null,
+            "lockStatus": null,
+            "type": 0,
+            "control": null,
+            "materialId": null,
+            "cornerIds": [
+                "1182563",
+                "1182565"
+            ],
+            "heights": [
+                2800.0
+            ],
+            "materialDataIds": [
+                "85799687"
+            ],
+            "thickness": 239.99951,
+            "loadBearingWall": false,
+            "id": "416262"
+        },
+        {
+            "visibleStatus": null,
+            "lockStatus": null,
+            "type": 0,
+            "control": null,
+            "materialId": null,
+            "cornerIds": [
+                "515801",
+                "517961"
+            ],
+            "heights": [
+                2800.0
+            ],
+            "materialDataIds": [],
+            "thickness": 120.0,
+            "loadBearingWall": false,
+            "id": "517331"
+        },
+        {
+            "visibleStatus": null,
+            "lockStatus": null,
+            "type": 0,
+            "control": null,
+            "materialId": null,
+            "cornerIds": [
+                "522927",
+                "522929"
+            ],
+            "heights": [],
+            "materialDataIds": [
+                "85799689",
+                "85799691"
+            ],
+            "thickness": 120.0,
+            "loadBearingWall": false,
+            "id": "520655"
+        },
+        {
+            "visibleStatus": null,
+            "lockStatus": null,
+            "type": 0,
+            "control": null,
+            "materialId": null,
+            "cornerIds": [
+                "521403",
+                "417137"
+            ],
+            "heights": [
+                2800.0
+            ],
+            "materialDataIds": [
+                "85799693"
+            ],
+            "thickness": 240.0,
+            "loadBearingWall": false,
+            "id": "521005"
+        },
+        {
+            "visibleStatus": null,
+            "lockStatus": null,
+            "type": 0,
+            "control": null,
+            "materialId": null,
+            "cornerIds": [
+                "522929",
+                "521403"
+            ],
+            "heights": [],
+            "materialDataIds": [
+                "85799695",
+                "85799697"
+            ],
+            "thickness": 120.0,
+            "loadBearingWall": false,
+            "id": "521007"
+        },
+        {
+            "visibleStatus": null,
+            "lockStatus": null,
+            "type": 0,
+            "control": null,
+            "materialId": null,
+            "cornerIds": [
+                "1182563",
+                "504145"
+            ],
+            "heights": [
+                2800.0
+            ],
+            "materialDataIds": [
+                "85799699"
+            ],
+            "thickness": 120.0,
+            "loadBearingWall": false,
+            "id": "1052281"
+        },
+        {
+            "visibleStatus": null,
+            "lockStatus": null,
+            "type": 0,
+            "control": null,
+            "materialId": null,
+            "cornerIds": [
+                "515801",
+                "1182565"
+            ],
+            "heights": [
+                2800.0
+            ],
+            "materialDataIds": [
+                "85799701"
+            ],
+            "thickness": 239.99951,
+            "loadBearingWall": false,
+            "id": "1177107"
+        }
+    ],
+    "corners": [
+        {
+            "visibleStatus": null,
+            "lockStatus": null,
+            "position": {
+                "x": -5600.0,
+                "y": -3176.0
+            },
+            "id": "417137"
+        },
+        {
+            "visibleStatus": null,
+            "lockStatus": null,
+            "position": {
+                "x": 310.0,
+                "y": -3176.0
+            },
+            "id": "417127"
+        },
+        {
+            "visibleStatus": null,
+            "lockStatus": null,
+            "position": {
+                "x": 310.0,
+                "y": -1166.0
+            },
+            "id": "417128"
+        },
+        {
+            "visibleStatus": null,
+            "lockStatus": null,
+            "position": {
+                "x": -5600.0,
+                "y": 264.0
+            },
+            "id": "417122"
+        },
+        {
+            "visibleStatus": null,
+            "lockStatus": null,
+            "position": {
+                "x": 710.0,
+                "y": 264.0
+            },
+            "id": "504145"
+        },
+        {
+            "visibleStatus": null,
+            "lockStatus": null,
+            "position": {
+                "x": 2460.0,
+                "y": -1226.0
+            },
+            "id": "515801"
+        },
+        {
+            "visibleStatus": null,
+            "lockStatus": null,
+            "position": {
+                "x": 2460.0,
+                "y": -1166.0
+            },
+            "id": "517961"
+        },
+        {
+            "visibleStatus": null,
+            "lockStatus": null,
+            "position": {
+                "x": -5600.0,
+                "y": -334.14838
+            },
+            "id": "521403"
+        },
+        {
+            "visibleStatus": null,
+            "lockStatus": null,
+            "position": {
+                "x": -4846.384,
+                "y": 264.0
+            },
+            "id": "522927"
+        },
+        {
+            "visibleStatus": null,
+            "lockStatus": null,
+            "position": {
+                "x": -4846.384,
+                "y": -334.14838
+            },
+            "id": "522929"
+        },
+        {
+            "visibleStatus": null,
+            "lockStatus": null,
+            "position": {
+                "x": 2692.8826,
+                "y": 264.0
+            },
+            "id": "1182563"
+        },
+        {
+            "visibleStatus": null,
+            "lockStatus": null,
+            "position": {
+                "x": 2692.8826,
+                "y": -1226.0
+            },
+            "id": "1182565"
+        }
+    ],
+    "exAreas": [],
+    "holes": [
+        {
+            "type": "DOOR",
+            "position": {
+                "x": -1120.0,
+                "y": 264.0,
+                "z": 1275.0
+            },
+            "furnitureId": "997425",
+            "archHeight": 0.0,
+            "angle": 9.424778,
+            "materialDatas": [],
+            "openSide": "RIGHT",
+            "wallId": "416210",
+            "size": {
+                "x": 920.0,
+                "y": 2550.0
+            },
+            "id": "524405",
+            "name": "单开门"
+        },
+        {
+            "type": "DOOR",
+            "position": {
+                "x": 2692.8826,
+                "y": -466.47055,
+                "z": 1245.0
+            },
+            "furnitureId": "1182805",
+            "archHeight": 0.0,
+            "angle": 1.5707964,
+            "materialDatas": [],
+            "openSide": "RIGHT",
+            "wallId": "416262",
+            "size": {
+                "x": 1159.0585,
+                "y": 2490.0
+            },
+            "id": "416804",
+            "name": "单开门"
+        },
+        {
+            "type": "WINDOW",
+            "position": {
+                "x": -5600.0,
+                "y": -1725.0742,
+                "z": 1330.0
+            },
+            "furnitureId": "885102",
+            "archHeight": 0.0,
+            "angle": 1.5707964,
+            "materialDatas": [],
+            "openSide": "LEFT",
+            "wallId": "521005",
+            "size": {
+                "x": 2661.8518,
+                "y": 1800.0
+            },
+            "id": "524429",
+            "name": "落地窗"
+        },
+        {
+            "type": "DOOR",
+            "position": {
+                "x": 1213.0,
+                "y": 264.0,
+                "z": 1275.0
+            },
+            "furnitureId": "997427",
+            "archHeight": 0.0,
+            "angle": 9.424778,
+            "materialDatas": [
+                {
+                    "materialDataId": "85799703",
+                    "index": 0
+                },
+                {
+                    "materialDataId": "85799705",
+                    "index": 2
+                },
+                {
+                    "materialDataId": "85799707",
+                    "index": 1
+                },
+                {
+                    "materialDataId": "85799709",
+                    "index": 3
+                }
+            ],
+            "openSide": "LEFT",
+            "wallId": "1052281",
+            "size": {
+                "x": 886.0,
+                "y": 2550.0
+            },
+            "id": "512421",
+            "name": "单开门"
+        }
+    ],
+    "furnitures": [
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "997427",
+            "position": {
+                "x": 1213.0,
+                "y": 264.0,
+                "z": 1275.0
+            },
+            "scale": {
+                "x": -1.0302325,
+                "y": 0.78230983,
+                "z": 1.0625
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -2.4492937E-16
+            },
+            "meshId": "SI4WUZGO7PRR6IRELI888888",
+            "brandGoodId": 25897840,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "1182805",
+            "position": {
+                "x": 2692.8826,
+                "y": -466.47055,
+                "z": 1245.0
+            },
+            "scale": {
+                "x": 0.83711314,
+                "y": 0.8028619,
+                "z": 1.0327708
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -1.5707964
+            },
+            "meshId": "SGOLYIWO7DSS2OWELU888888",
+            "brandGoodId": 4930310,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "997425",
+            "position": {
+                "x": -1120.0,
+                "y": 264.0,
+                "z": 1275.0
+            },
+            "scale": {
+                "x": 1.0697675,
+                "y": 0.78230983,
+                "z": 1.0625
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -2.4492937E-16
+            },
+            "meshId": "SI4WUZGO7PRR6IRELI888888",
+            "brandGoodId": 25897840,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "885102",
+            "position": {
+                "x": -5600.0,
+                "y": -1725.0742,
+                "z": 1330.0
+            },
+            "scale": {
+                "x": 0.887352,
+                "y": 2.0,
+                "z": 0.68223166
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -1.5707964
+            },
+            "meshId": "U9B5TUNnRUNJtwFBAAAA",
+            "brandGoodId": 2819785,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "988703",
+            "position": {
+                "x": -3159.8833,
+                "y": 152.102,
+                "z": 1202.7025
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "meshId": "VL9Pr0NnRUNPEQFBAAAA",
+            "brandGoodId": 2841011,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": [
+                {
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "angle": 0.0,
+                    "translation": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "blockName": "54bf5108e4b04c6011f82648",
+                    "targetMaterialId": "54bf5108e4b04c6011f82648"
+                },
+                {
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "angle": 0.0,
+                    "translation": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "blockName": "54bf5108e4b04c6011f82647",
+                    "targetMaterialId": "54bf5108e4b04c6011f82647"
+                },
+                {
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "angle": 0.0,
+                    "translation": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "blockName": "54bf5108e4b04c6011f82649",
+                    "targetMaterialId": "54bf5108e4b04c6011f82649"
+                }
+            ]
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "994251",
+            "position": {
+                "x": 1929.8625,
+                "y": -1091.998,
+                "z": 1801.7567
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 0.9216667
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -3.1415925
+            },
+            "meshId": "SIB4Y5WO7PRR6IRELE888888",
+            "brandGoodId": 26128954,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "1006077",
+            "position": {
+                "x": 36.006004,
+                "y": 186.4999,
+                "z": 1775.9359
+            },
+            "scale": {
+                "x": 1.4840256,
+                "y": 0.51428425,
+                "z": 1.4840256
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "meshId": "66J6DQUTDZTWMVVEKQ888888",
+            "brandGoodId": 32256291,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": [
+                {
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "angle": 0.0,
+                    "translation": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "blockName": "5bad7b2c0d69eb68d14cdf00",
+                    "targetMaterialId": "5bad7b2c0d69eb68d14cdf00"
+                },
+                {
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "angle": 0.0,
+                    "translation": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "blockName": "5bad7b2c0d69eb68d14cdf01",
+                    "targetMaterialId": "5bad7b2c0d69eb68d14cdf01"
+                }
+            ]
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "1029547",
+            "position": {
+                "x": -3992.3218,
+                "y": -3043.8572,
+                "z": 1500.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -3.1415925
+            },
+            "meshId": "SNYW6CWO7DSS2DEDLI888888",
+            "brandGoodId": 8561470,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "1116185",
+            "position": {
+                "x": -3153.9827,
+                "y": 146.0799,
+                "z": 674.17773
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "meshId": "SJA4NR6O7PRR6IRELI888888",
+            "brandGoodId": 19387948,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "1027947",
+            "position": {
+                "x": 236.26326,
+                "y": -2239.0718,
+                "z": 1785.5369
+            },
+            "scale": {
+                "x": 0.8844223,
+                "y": 0.8844223,
+                "z": 0.8844223
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -1.5707964
+            },
+            "meshId": "SGP6T2OO7DSS2OWEK4888888",
+            "brandGoodId": 4908635,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "994249",
+            "position": {
+                "x": -766.6431,
+                "y": -3046.2717,
+                "z": 1789.2037
+            },
+            "scale": {
+                "x": 0.68733156,
+                "y": 0.68733156,
+                "z": 0.68733156
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -3.1415925
+            },
+            "meshId": "VHQNPENnRUMMnwFBAAAA",
+            "brandGoodId": 2835287,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "1029549",
+            "position": {
+                "x": -3053.9531,
+                "y": -3043.8572,
+                "z": 1500.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -3.1415925
+            },
+            "meshId": "SNYW6CWO7DSS2DEDKQ888888",
+            "brandGoodId": 8561468,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "1033605",
+            "position": {
+                "x": -5426.28,
+                "y": -1727.1157,
+                "z": 1130.6968
+            },
+            "scale": {
+                "x": 0.87808603,
+                "y": 0.5,
+                "z": 0.8278459
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.5707964
+            },
+            "meshId": "SDCDGSOO7DSS2S22KQ888888",
+            "brandGoodId": 6753349,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "1072275",
+            "position": {
+                "x": -3512.1892,
+                "y": -1755.0742,
+                "z": 3.1088
+            },
+            "scale": {
+                "x": 1.2289835,
+                "y": 1.2289835,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "meshId": "VE9x40NnRUMMIwFBAAAA",
+            "brandGoodId": 2830092,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "1073551",
+            "position": {
+                "x": -2069.9863,
+                "y": -2731.031,
+                "z": 875.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "meshId": "SMNIBSGO7DSS2DEDLU888888",
+            "brandGoodId": 11773655,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "1028739",
+            "position": {
+                "x": -3543.6235,
+                "y": -1427.7794,
+                "z": 321.2651
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "meshId": "673TH44TDZTWMS5EKA888888",
+            "brandGoodId": 33961676,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "1146899",
+            "position": {
+                "x": -2273.7053,
+                "y": -1427.7794,
+                "z": 264.41196
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.5707964
+            },
+            "meshId": "SFDIWOWO7DSS23NZLU888888",
+            "brandGoodId": 3886724,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "1029557",
+            "position": {
+                "x": -1887.5592,
+                "y": 6.0827985,
+                "z": 382.783
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "meshId": "SIOWNBWO7PRR6IRELI888888",
+            "brandGoodId": 28275941,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "1029505",
+            "position": {
+                "x": -4938.5586,
+                "y": -737.8801,
+                "z": 854.7816
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.5707964
+            },
+            "meshId": "TYJATOEHT2S62XBKLVMOYPGC",
+            "brandGoodId": 3420467,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "1029511",
+            "position": {
+                "x": -4913.672,
+                "y": -2660.8254,
+                "z": 558.42
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -2.3561947
+            },
+            "meshId": "SNCEYS6O7DSS2DEDJQ888888",
+            "brandGoodId": 9119976,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "993473",
+            "position": {
+                "x": -4514.797,
+                "y": 61.90137,
+                "z": 706.3
+            },
+            "scale": {
+                "x": -1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "meshId": "SBBLHB6O7DSS2XOPJU888888",
+            "brandGoodId": 5173722,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "1029507",
+            "position": {
+                "x": -3505.103,
+                "y": -2650.9119,
+                "z": 422.4831
+            },
+            "scale": {
+                "x": 1.0711647,
+                "y": 1.0711647,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -3.1415925
+            },
+            "meshId": "SJ5AMC6O7PRR6IREKE888888",
+            "brandGoodId": 18859338,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "1029509",
+            "position": {
+                "x": -4879.409,
+                "y": -1579.2168,
+                "z": 369.4382
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.5707964
+            },
+            "meshId": "SJW2HPWO7DXBU3GIL4888888",
+            "brandGoodId": 18368901,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "85795381",
+            "position": {
+                "x": -3186.5618,
+                "y": -1533.0679,
+                "z": 436.76123
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -3.1415925
+            },
+            "meshId": "6LLA74ETDVVBGPTUK4888888",
+            "brandGoodId": 126438399,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "85795383",
+            "position": {
+                "x": -681.64996,
+                "y": -1566.0673,
+                "z": 483.975
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -1.5707964
+            },
+            "meshId": "6LLA74ETDVVBGPTUKI888888",
+            "brandGoodId": 126438397,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "51260151260151260151260151260151260151260151260151260110009416",
+            "position": {
+                "x": 248.4203,
+                "y": -469.07196,
+                "z": 2544.9944
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -1.5707964
+            },
+            "meshId": "VxhyVkNnRUMJOgBBAAAA",
+            "brandGoodId": 2806338,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "51260151260151260151260151260151260151260151260151260110009483",
+            "position": {
+                "x": -137.50737,
+                "y": -894.14,
+                "z": 2702.4346
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -1.5707964
+            },
+            "meshId": "Vxhxh0NnRUMJOgFBAAAA",
+            "brandGoodId": 2806321,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "5126015126011072265",
+            "position": {
+                "x": -767.53516,
+                "y": -2218.9614,
+                "z": 2408.5
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 0.79606926
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -1.5707964
+            },
+            "meshId": "SNVNC46O7PRTCJF6KE888888",
+            "brandGoodId": 8426763,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "51260151260151260151260151260151260151260151260151260151260110008704",
+            "position": {
+                "x": 1872.5586,
+                "y": -626.0,
+                "z": 2697.4978
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "meshId": "TYCAOJMHT2S6QMCJLVMOYPGC",
+            "brandGoodId": 3392507,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "51260151260151260151260151260151260151260151260151260151260110008596",
+            "position": {
+                "x": -455.07812,
+                "y": -2871.582,
+                "z": 2547.4978
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "meshId": "TYCAOJMHT2S6QMCJLVMOYPGC",
+            "brandGoodId": 3392507,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "51260151260151260151260151260151260151260151260151260151260110008694",
+            "position": {
+                "x": 877.9297,
+                "y": -626.0,
+                "z": 2697.4978
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "meshId": "TYCAOJMHT2S6QMCJLVMOYPGC",
+            "brandGoodId": 3392507,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "51260151260151260151260151260151260151260151260151260151260110008589",
+            "position": {
+                "x": -4093.2617,
+                "y": 27.8125,
+                "z": 2547.4978
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "meshId": "TYCAOJMHT2S6QMCJLVMOYPGC",
+            "brandGoodId": 3392507,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "5126015126011072271",
+            "position": {
+                "x": -3393.8528,
+                "y": -1387.2651,
+                "z": 2394.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 0.8710186
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "meshId": "SNUYJWGO7DSS2DEDKY888888",
+            "brandGoodId": 8439593,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "51260151260151260151260151260151260151260151260151260151260110008592",
+            "position": {
+                "x": -2260.7422,
+                "y": 27.8125,
+                "z": 2547.4978
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "meshId": "TYCAOJMHT2S6QMCJLVMOYPGC",
+            "brandGoodId": 3392507,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "51260151260151260151260151260151260151260151260151260151260110008612",
+            "position": {
+                "x": 62.5,
+                "y": -1426.0,
+                "z": 2547.4978
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "meshId": "TYCAOJMHT2S6QMCJLVMOYPGC",
+            "brandGoodId": 3392507,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "51260151260151260151260151260151260151260151260151260151260110008620",
+            "position": {
+                "x": -4610.3516,
+                "y": -1426.0,
+                "z": 2547.4978
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "meshId": "TYCAOJMHT2S6QMCJLVMOYPGC",
+            "brandGoodId": 3392507,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "51260151260151260151260151260151260151260151260151260151260110008605",
+            "position": {
+                "x": -4093.2617,
+                "y": -2871.582,
+                "z": 2547.4978
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "meshId": "TYCAOJMHT2S6QMCJLVMOYPGC",
+            "brandGoodId": 3392507,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "51260151260151260151260151260151260151260151260151260151260110008600",
+            "position": {
+                "x": -2260.7422,
+                "y": -2871.582,
+                "z": 2547.4978
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "meshId": "TYCAOJMHT2S6QMCJLVMOYPGC",
+            "brandGoodId": 3392507,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        },
+        {
+            "visibleStatus": 1,
+            "lockStatus": 0,
+            "id": "51260151260151260151260151260151260151260151260151260151260110008593",
+            "position": {
+                "x": -455.07812,
+                "y": 27.8125,
+                "z": 2547.4978
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "rotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "meshId": "TYCAOJMHT2S6QMCJLVMOYPGC",
+            "brandGoodId": 3392507,
+            "verifyMeshId": "",
+            "materialReplacedInfos": [],
+            "materialUVEditInfos": []
+        }
+    ],
+    "layoutFurnitures": [],
+    "h5LayoutFurnitures": [],
+    "materials": [
+        {
+            "position": {
+                "x": 1385.0,
+                "y": -1106.0,
+                "z": 1425.0
+            },
+            "materialId": null,
+            "brandGoodId": 2949488,
+            "id": "85799675"
+        },
+        {
+            "position": {
+                "x": -5193.192,
+                "y": 204.0,
+                "z": 1425.0
+            },
+            "materialId": null,
+            "brandGoodId": 2634075,
+            "id": "85799677"
+        },
+        {
+            "position": {
+                "x": 250.00003,
+                "y": -2081.0,
+                "z": 1425.0
+            },
+            "materialId": null,
+            "brandGoodId": 2949488,
+            "id": "85799679"
+        },
+        {
+            "position": {
+                "x": -2038.192,
+                "y": 204.0,
+                "z": 1425.0
+            },
+            "materialId": null,
+            "brandGoodId": 2949488,
+            "id": "85799681"
+        },
+        {
+            "position": {
+                "x": -2615.0,
+                "y": -3056.0,
+                "z": 1425.0
+            },
+            "materialId": null,
+            "brandGoodId": 2949488,
+            "id": "85799683"
+        },
+        {
+            "position": {
+                "x": -5480.0,
+                "y": -35.07419,
+                "z": 1425.0
+            },
+            "materialId": null,
+            "brandGoodId": 2634075,
+            "id": "85799685"
+        },
+        {
+            "position": {
+                "x": 2572.8828,
+                "y": -451.00012,
+                "z": 1425.0
+            },
+            "materialId": null,
+            "brandGoodId": 2949488,
+            "id": "85799687"
+        },
+        {
+            "position": {
+                "x": -4786.384,
+                "y": -95.07419,
+                "z": 1425.0
+            },
+            "materialId": null,
+            "brandGoodId": 2949488,
+            "id": "85799689"
+        },
+        {
+            "position": {
+                "x": -4906.384,
+                "y": -35.07419,
+                "z": 1425.0
+            },
+            "materialId": null,
+            "brandGoodId": 2634075,
+            "id": "85799691"
+        },
+        {
+            "position": {
+                "x": -5480.0,
+                "y": -1725.0742,
+                "z": 1425.0
+            },
+            "materialId": null,
+            "brandGoodId": 2949488,
+            "id": "85799693"
+        },
+        {
+            "position": {
+                "x": -5133.192,
+                "y": -394.14838,
+                "z": 1425.0
+            },
+            "materialId": null,
+            "brandGoodId": 2949488,
+            "id": "85799695"
+        },
+        {
+            "position": {
+                "x": -5193.192,
+                "y": -274.14838,
+                "z": 1425.0
+            },
+            "materialId": null,
+            "brandGoodId": 2634075,
+            "id": "85799697"
+        },
+        {
+            "position": {
+                "x": 1641.4414,
+                "y": 204.0,
+                "z": 1425.0
+            },
+            "materialId": null,
+            "brandGoodId": 2949488,
+            "id": "85799699"
+        },
+        {
+            "position": {
+                "x": 2546.4414,
+                "y": -1106.0002,
+                "z": 1425.0
+            },
+            "materialId": null,
+            "brandGoodId": 2634075,
+            "id": "85799701"
+        },
+        {
+            "position": {
+                "x": -1990.9529,
+                "y": -1312.6749,
+                "z": 0.0
+            },
+            "materialId": null,
+            "brandGoodId": 27766115,
+            "id": "85799711"
+        },
+        {
+            "position": {
+                "x": -1990.9529,
+                "y": -1312.6749,
+                "z": 2850.0
+            },
+            "materialId": null,
+            "brandGoodId": 2634075,
+            "id": "85799713"
+        },
+        {
+            "position": {
+                "x": -5193.192,
+                "y": -35.07419,
+                "z": 0.0
+            },
+            "materialId": null,
+            "brandGoodId": 4875794,
+            "id": "85799715"
+        },
+        {
+            "position": {
+                "x": -5193.192,
+                "y": -35.07419,
+                "z": 2850.0
+            },
+            "materialId": null,
+            "brandGoodId": 2634075,
+            "id": "85799717"
+        },
+        {
+            "position": null,
+            "materialId": null,
+            "brandGoodId": 2634075,
+            "id": "85799703"
+        },
+        {
+            "position": null,
+            "materialId": null,
+            "brandGoodId": 2634075,
+            "id": "85799705"
+        },
+        {
+            "position": null,
+            "materialId": null,
+            "brandGoodId": 2634075,
+            "id": "85799707"
+        },
+        {
+            "position": null,
+            "materialId": null,
+            "brandGoodId": 2634075,
+            "id": "85799709"
+        }
+    ],
+    "layoutMaterials": [
+        {
+            "layoutTextureId": 1,
+            "id": "17615"
+        },
+        {
+            "layoutTextureId": 1,
+            "id": "17623"
+        }
+    ],
+    "pillars": [],
+    "beams": [],
+    "floor": {
+        "floorHoles": [],
+        "floorThickness": 0.0
+    },
+    "moldings": [],
+    "cupboardFurnitures": [],
+    "layoutFurnitureGroups": [],
+    "h5LayoutFurnitureGroups": [],
+    "furnitureGroups": [],
+    "includeCeilingFurnitures": true,
+    "furnitureGroupCollections": {},
+    "dropCeilings": [],
+    "dwHoles": [],
+    "areaLoops": [],
+    "versionId": null,
+    "metadata": "{\"context\":{\"unitMode\":\"mm\",\"unitDiagramScale\":0.7915243,\"styleType\":\"normal\"}}",
+    "name": ""
+}
