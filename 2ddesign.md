@@ -98,9 +98,22 @@ Floorplan = 布图规划
 
 ###
 
+2d导航图构成
+ 户型图 + 家具图 + 硬装 + 定制门窗 + 模型门窗
+
 - 户型图生成流程
+    有pixijs 画出点线面
+- 硬装
+    处理材质,从对应的户型方案获取faceid
+- 定制商品
+    定制获取商品信息
+
 - 家具位置信息的描述方式和数据结构
+    homedata包含大小信息
+
+
 - 现有云图获取homedata的接口
+
 - 中间层是怎么用的
 - 
 
@@ -127,3 +140,5 @@ Floorplan = 布图规划
     <artifactId>furniture-common-client</artifactId>
     <version>0.0.15</version>
 </dependency>
+
+### 如何保存方案数据
