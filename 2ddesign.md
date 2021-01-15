@@ -79,6 +79,10 @@ service:
 ```
 com.qunhe.kam.client.floorplancommon.api.FloorplanCommonApi
 
+
+modelsevrice
+
+
 ##### 问题
  ~~demo项目项目启动不了.....~~
 
@@ -99,3 +103,27 @@ Floorplan = 布图规划
 - 现有云图获取homedata的接口
 - 中间层是怎么用的
 - 
+
+
+<dependency>
+    <groupId>com.qunhe.diybe.module</groupId>
+    <artifactId>molding-common-client</artifactId>
+    <version>0.0.15</version>
+</dependency>
+
+<dependency>
+    <groupId>com.qunhe.diybe.module</groupId>
+    <artifactId>layoutdesign-common-client</artifactId>
+    <version>0.0.5</version>
+</dependency>
+ <dependency>
+    <groupId>com.qunhe.diybe.module</groupId>
+    <artifactId>floorplan-common-client</artifactId>
+    <version>0.0.14</version>
+</dependency>
+
+ <dependency>
+    <groupId>com.qunhe.diybe.module</groupId>
+    <artifactId>furniture-common-client</artifactId>
+    <version>0.0.15</version>
+</dependency>
